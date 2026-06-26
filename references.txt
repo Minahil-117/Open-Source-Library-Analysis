@@ -1,0 +1,5 @@
+Official Repository:
+https://github.com/pandas-dev/pandas
+
+Official Documentation:
+https://pandas.pydata.org/docs/
